@@ -1,0 +1,43 @@
+card-body {
+    margin-left: 0% !important;
+    padding-left: 0% !important;
+} 
+    
+.th_datos {
+    width: 25%;
+    font-size: 15px;
+}
+
+.tabla_datos {
+    width: 100%;
+    text-align: center; 
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.th_acceso {
+    padding-bottom: 2%;
+    padding-left: 3%;
+    width: 95%;
+}
+
+.input_acceso {
+    width: 95%;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border: 2px solid #6EC1E4
+}
+
+.boton_acceso {
+    font-weight: bold; padding: 1%; 
+    color: white; 
+    border: 3px solid #6EC1E4; 
+    background-color: #6EC1E4;
+    border-radius: 20px;
+}
+
+.boton_acceso:hover {
+background-color: white;
+color: #6EC1E4
+}

@@ -1,0 +1,102 @@
+.card-header {
+    text-align: center;
+    background-color: #D5EAF0;             
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Tahoma; 
+    }
+    
+    .th_perfil {
+        border-right: 1px solid #A0A0A0;
+    }
+    
+    .mensaje {
+    border:2px solid black;
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+    padding: 5px 15px;
+    font-size: 15px;
+    margin-top: 5%;       
+    }
+    
+.tabla_home {
+       width: 100%; 
+       margin-left: 5%;
+       margin-right: 5%;
+    }
+    
+.mod-perfil {
+    width: 100%;
+    text-align: center; 
+    border-radius: 20px;
+    font-size: 15px;
+    }      
+    
+.cabecera_perfil {       
+    color: white;
+    border-radius: 5px; 
+    background-color: #0C0E3B;
+    font-size: 25px;
+    margin-bottom: 3%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    }
+    
+    .tabla_perfil {
+    font-size: 15px;
+    width: 100%;
+    text-align: left; 
+    border-radius: 20px; 
+    border: 1px solid #ddd; 
+    min-height: 400px;
+    }
+    
+    .trperfil {
+    border: 1px solid #A0A0A0;  
+    }
+    
+    .input-perfil {
+        background-color: transparent;
+        border: 0;
+    }
+    
+    .submit-perfil {
+      border:2px solid black;
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+    padding: 5px 15px;
+    font-size: 15px;
+    margin-left: -5%;
+    margin-top: 5%;
+    cursor: pointer;   
+    }
+    
+    .iframe_logs {
+        margin: 0 auto;
+        width: 100%;
+        height: 375px;
+        padding-top: 2%;
+        border: 0;
+    }
+    
+    .logs_tr {
+     border: 4px solid white; 
+     border-bottom: 8px solid white; 
+     background-color: #D5EAF0;
+     text-align: left;
+     font-weight: bold;
+     font-size: 11px;
+     font-family: Tahoma; 
+    }
+    
+    .footer {       
+    position:fixed;
+    bottom:0;
+    z-index:50000;
+    padding-top: 40%
+    }
+
+    
+
